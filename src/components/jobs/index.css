@@ -1,0 +1,33 @@
+.filter-display-all-jobs-cont{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    padding: 20px;
+
+}
+.filter-section-cont{
+    width: 25%;
+    height: 100%;
+
+}
+
+.display-all-jobs-cont{
+    width: 75%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.jobs-list-cont{
+    width: 80%;
+}
+.my-input{
+    width: 70%;
+    margin-bottom: 20px;
+    background-color: transparent;
+    color: white;
+}
+.my-input:focus{
+    background-color: transparent;
+    color: white;
+}
